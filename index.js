@@ -28,8 +28,8 @@ function appendKitten(name){
   console.log(kittens)
 }
 
-appendKitten('Frank')
-
+appendKitten("Fred")
+console.log(kittens)
 
 
 
