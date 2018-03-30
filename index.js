@@ -27,7 +27,8 @@ function appendKitten(name){
   return ([...kittens], name)
 }
 
-
+console.log(appendKitten("Fred"))
+console.log(kittens)
 
 
 
