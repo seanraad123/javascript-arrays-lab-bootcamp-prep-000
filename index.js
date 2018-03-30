@@ -32,10 +32,10 @@ function prependKitten(name){
   return ([name, ...kittens])
 }
 
-function removeLastKitten(){
-  return (kitten.slice(-1))
+function removeLastKitten(name){
+  return (name.slice(-1))
 }
 
-console.log(removeLastKitten())
+console.log(removeLastKitten(kittens))
 
 
