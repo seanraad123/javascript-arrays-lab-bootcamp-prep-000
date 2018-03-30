@@ -36,6 +36,6 @@ function removeLastKitten(){
   return (kitten.slice(-1))
 }
 
-
+console.log(removeLastKitten())
 
 
