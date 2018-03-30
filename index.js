@@ -37,4 +37,3 @@ function removeLastKitten(){
 
 }
 
-console.log(removeLastKitten())
