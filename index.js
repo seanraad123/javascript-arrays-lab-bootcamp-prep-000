@@ -37,7 +37,8 @@ function removeLastKitten(name){
   
 }
 
-console.log (kittens)
+
 console.log(removeLastKitten(kittens))
+console.log (kittens)
 
 
