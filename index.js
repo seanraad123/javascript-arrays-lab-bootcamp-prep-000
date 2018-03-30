@@ -37,8 +37,3 @@ function removeLastKitten(name){
   
 }
 
-
-console.log(removeLastKitten(kittens))
-console.log (kittens)
-
-
